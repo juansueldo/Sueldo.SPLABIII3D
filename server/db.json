@@ -1,0 +1,100 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "nombre": "Clark Kent",
+      "fuerza": 900,
+      "alias": "Superman",
+      "editorial": "DC",
+      "arma": "Armadura"
+    },
+    {
+      "id": 1687865700786,
+      "nombre": "Bruce Wayne",
+      "fuerza": 100,
+      "alias": "Batman",
+      "editorial": "DC",
+      "arma": "Armadura"
+    },
+    {
+      "id": 1687866093319,
+      "nombre": "Thor Oddison",
+      "fuerza": 718,
+      "alias": "Thor",
+      "editorial": "Marvel",
+      "arma": "Martillo"
+    },
+    {
+      "id": 1687866754172,
+      "nombre": "Oliver Queen",
+      "fuerza": 80,
+      "alias": "Green Arrow",
+      "editorial": "DC",
+      "arma": "Flechas"
+    },
+    {
+      "id": 1687867318097,
+      "nombre": "Diana Prince",
+      "fuerza": 666,
+      "alias": "Wonder Woman",
+      "editorial": "DC",
+      "arma": "Espada"
+    },
+    {
+      "id": 1687867437248,
+      "nombre": "Jason Todd",
+      "fuerza": 50,
+      "alias": "RedHood",
+      "editorial": "DC",
+      "arma": "Arma de Fuego"
+    },
+    {
+      "id": 1687868428241,
+      "nombre": "Natasha Romanoff",
+      "fuerza": 53,
+      "alias": "Black Widow",
+      "editorial": "Marvel",
+      "arma": "Arma de Fuego"
+    },
+    {
+      "id": 1687868543231,
+      "nombre": "Hal Jordan",
+      "fuerza": 415,
+      "alias": "Green Lantern",
+      "editorial": "DC",
+      "arma": "Escudo"
+    },
+    {
+      "id": 1687874694198,
+      "nombre": "Jaime Reyes",
+      "fuerza": 450,
+      "alias": "Blue Beetle",
+      "editorial": "DC",
+      "arma": "Armadura"
+    },
+    {
+      "id": 1687878727946,
+      "nombre": "Peter Parker",
+      "fuerza": 74,
+      "alias": "Spiderman",
+      "editorial": "Marvel",
+      "arma": "Escudo"
+    },
+    {
+      "id": 1687900801663,
+      "nombre": "Steve Rogers",
+      "fuerza": 300,
+      "alias": "Captain America",
+      "editorial": "Marvel",
+      "arma": "Escudo"
+    },
+    {
+      "id": 1687901994855,
+      "nombre": "Charles Xavier",
+      "fuerza": 220,
+      "alias": "Profesor X",
+      "editorial": "Marvel",
+      "arma": "Arma de Fuego"
+    }
+  ]
+}
